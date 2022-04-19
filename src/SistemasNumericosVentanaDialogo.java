@@ -19,14 +19,11 @@ public class SisNume1 {
 
 import javax.swing.*;
 
-public class SisNume1 {
+public class SistemasNumericosVentanaDialogo {
 
     public static void main(String[] args) {
             String numStr = JOptionPane.showInputDialog(null,"Ingrese un numero entero");
 
-        Persona p1=new Persona();
-        Persona p2=new Persona();
-        Persona p3=new Persona();
 
             int numeroDecimal=0;
             try{
@@ -52,7 +49,7 @@ public class SisNume1 {
             mensaje += "\n" + mensajeHex;
 
 
-            JOptionPane.showMessageDialog(null,mensaje);
+        JOptionPane.showMessageDialog(null,mensaje);
 
 
 
