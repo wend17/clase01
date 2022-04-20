@@ -1,4 +1,4 @@
-public class PrimitivosBolean {
+public class PrimitivosBolean3 {
     public static void main(String[] args) {
         boolean datologico = true;
         System.out.println("datologico = " + datologico);
@@ -13,4 +13,6 @@ public class PrimitivosBolean {
         System.out.println("datologico = " + datologico);
         
     }
+
+
 }

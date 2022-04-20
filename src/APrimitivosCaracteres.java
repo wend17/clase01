@@ -19,7 +19,7 @@ public class PrimitivosCaracteres {
         System.out.println("mínimo valor de un char = " + Character.MIN_VALUE);
 
         char espacio =' ';//'\u0020';
-        System.out.println("char  corresponde en byte:" + espacio + Character.BYTES);
+        System.out.println("char  corresponde en byte:" + espacio+ Character.BYTES);
 
         char retroceso ='\b'; //se puede usar dentro del texto
         System.out.println("char  corresponde en byte:" + retroceso + Character.BYTES);
