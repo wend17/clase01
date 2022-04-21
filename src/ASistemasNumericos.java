@@ -1,4 +1,4 @@
-public class SistemasNumericos {
+public class ASistemasNumericos {
     public static void main(String[] args) {
         int numeroDecimal = 500 ;
         System.out.println("numeroDecimal = " + numeroDecimal);

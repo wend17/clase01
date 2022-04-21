@@ -1,4 +1,4 @@
-public class Pruebas {
+public class APruebas {
     public static void main(String[] args) {
 
         String numero ="50";

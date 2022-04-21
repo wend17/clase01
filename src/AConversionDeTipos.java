@@ -1,5 +1,5 @@
 
-public class ConversionDeTipos {
+public class AConversionDeTipos {
     public static void main(String[] args) {
         
         String numeroStr ="50";

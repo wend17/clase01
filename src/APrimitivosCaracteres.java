@@ -1,4 +1,4 @@
-public class PrimitivosCaracteres {
+public class APrimitivosCaracteres {
     public static void main(String[] args) {
         char caracter = '\u0040';//'0';//'9';
         System.out.println("carácter = " + caracter);

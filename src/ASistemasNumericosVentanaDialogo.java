@@ -19,7 +19,7 @@ public class SisNume1 {
 
 import javax.swing.*;
 
-public class SistemasNumericosVentanaDialogo {
+public class ASistemasNumericosVentanaDialogo {
 
     public static void main(String[] args) {
             String numStr = JOptionPane.showInputDialog(null,"Ingrese un numero entero");

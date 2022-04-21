@@ -1,4 +1,4 @@
-public class PrimitivosFlotantes2 {
+public class APrimitivosFlotantes2 {
     public static void main(String[] args) {
 
         float realFloat = 2.12e-10f;//2.12e3f;//2120f;//2120.0f;

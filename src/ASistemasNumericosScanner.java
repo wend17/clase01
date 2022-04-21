@@ -1,8 +1,7 @@
-import javax.swing.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class SistemasNumericosScanner {
+public class ASistemasNumericosScanner {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
